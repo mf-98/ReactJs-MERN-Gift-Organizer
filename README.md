@@ -10,6 +10,8 @@ $ npm install -g nodemon
 
 $ nodemon server
 
+$ npm start
+
 : )
 
 
