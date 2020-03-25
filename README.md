@@ -5,7 +5,9 @@ A program to organize gifts for your friends. Enter a friends name, then enter a
 Reccommended:
 
 $ npm install 
+
 $ npm install -g nodemon  
+
 $ nodemon server
 
 : )
